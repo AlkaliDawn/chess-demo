@@ -1,4 +1,4 @@
-# chess-demo
+# Chess in Py (PyGame)
 me bad at python
 i make chess
 get better
